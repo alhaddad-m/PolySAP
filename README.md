@@ -12,8 +12,10 @@ Polygon Decomposition for Obstacle Representation in MPC-based Motion Planning
 - $ source env.sh
 - $ python3 test_solver_polysap.py
 
+## Example
+Result of example for testing PolySAP optimization solvers.
 
-
+![polysap result](./image.png)
 
  
 
